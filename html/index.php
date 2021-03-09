@@ -36,6 +36,7 @@
                 echo '</details>';
             }
         }
+
         ?>
 
     </body>
