@@ -2,11 +2,11 @@
 <html lang=\"en\">
     <head>
         <meta charset=\"UTF-8\"/>
-        <title> Recipes </title>
+        <title> Yuki's Kitchen </title>
     </head>
     <body>
 
-        <h1> Recipes </h1>
+        <h1> Welcome to Yuki's Kitchen! </h1>
 
         <?php
 
